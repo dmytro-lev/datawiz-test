@@ -26,7 +26,9 @@ SECRET_KEY = '=xj)#9gqs!e0666-8!^v6nzdmeptq89*kan+-5nv(m%ub+9kgr'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'datawiz-lev.herokuapp.com'
+    'datawiz-lev.herokuapp.com',
+    '0.0.0.0:5000',
+'127.0.0.1',
 ]
 
 
