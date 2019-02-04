@@ -25,7 +25,9 @@ SECRET_KEY = '=xj)#9gqs!e0666-8!^v6nzdmeptq89*kan+-5nv(m%ub+9kgr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'datawiz-lev.herokuapp.com'
+]
 
 
 # Application definition
